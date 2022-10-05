@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rouge+Script&display=swap');
+
+/*Diseño de Cliente.xhtml*/
+#Listado1{
+   font-family: monospace;
+    font-size: 30px;
+    margin-top: -10px;
+    margin-bottom: 4px;
+    color: #D32F2F;
+}
+
+
+#Listado2{
+   font-family: fantasy;
+    font-size: 50px;
+    margin-top: -10px;
+    margin-bottom: 4px;
+    color: #464df2;
+}
